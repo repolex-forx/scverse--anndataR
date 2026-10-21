@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scverse/anndataR/commit/24f52ce320b3dad9d15bad7c11c6803efd93a285",
       "git:hexsha": "24f52ce320b3dad9d15bad7c11c6803efd93a285",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:05:53.772169+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scverse/anndataR/commit/a10a4c35894c80a080f956a194e134eab37e79ae",
